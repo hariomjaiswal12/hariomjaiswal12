@@ -69,6 +69,18 @@
 
 ---
 
+## 📈 Total Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariomjaiswal12&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariomjaiswal12&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📚 StudyNotion - EdTech Platform
@@ -82,5 +94,6 @@
 🔗 **GitHub Repo:** https://github.com/hariomjaiswal12/StudyNotion
 
 ---
+
 
 <h3 align="center">⭐ If you like my profile, feel free to connect with me!</h3>
