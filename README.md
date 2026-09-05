@@ -67,19 +67,16 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,netlify" />
 </p>
 
----
+## 📊 GitHub Dashboard
 
-## 📈 Total Contributions
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariomjaiswal12&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
+<img width="46%" src="https://streak-stats.demolab.com?user=hariomjaiswal12&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariomjaiswal12&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariomjaiswal12&theme=tokyonight"/>
 
----
+</div>
+
 
 ## 🚀 Featured Projects
 
